@@ -1,8 +1,39 @@
-# React + Vite
+# Web Development Project 6 - *Museum Pro*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **Y Banh**
 
-Currently, two official plugins are available:
+This web app: **Showcase a list of data about exhibitions at Hewitt Cooper museum and with chart visual**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Time spent: **4** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
+- [x] **Clicking on an item in the list view displays more details about it**
+- [x] **Clicking on an item has a direct, unique link to that item's detail view page**
+
+## Video Walkthrough
+
+https://www.loom.com/share/7d7ecd50227246fc8617c1c689a5d54b?sid=b47dcc2d-6ed7-4e99-acb2-65ce4197b170
+
+## Notes
+
+It was a little bit confusing having to create a lot of components and keep track of which is which.
+
+## License
+
+    Copyright [2024] [Y BANH]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
